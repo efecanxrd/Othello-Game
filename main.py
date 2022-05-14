@@ -1,7 +1,7 @@
 from game import Game
-from aiPlayer import AIPlayer
-from randomPlayer import RandomPlayer
-from humanPlayer import HumanPlayer
+from ai import AIPlayer
+from RandomPlayer import RandomPlayer
+from human import HumanPlayer
 
 if __name__ == "__main__":
     # 4 false 135/150
