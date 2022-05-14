@@ -11,6 +11,10 @@
 ```shell
 pip install func-timeout
 ```
+### Start the game!
+```shell
+python main.py
+```
 ## How this is working?
 This is an othello game project using the minimax algorithm (with alpha-beta pruning). **Code comments were entered as # comments on each line.**
 In the game I developed, Random Player can play against Human(You), Human(You) against ai, ai aganist ai, randomplayer aganist ai.
