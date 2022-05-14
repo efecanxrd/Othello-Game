@@ -1,7 +1,6 @@
 import random
 from player import Player
 
-
 class RandomPlayer(Player):
     """
     RandomPlayer class, randomly returns a legal move position
