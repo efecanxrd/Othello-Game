@@ -7,7 +7,6 @@ default_config = {
     'pre_search_branch': 6,
 }
 
-
 class AIPlayer(Player):
     """
     AI player
